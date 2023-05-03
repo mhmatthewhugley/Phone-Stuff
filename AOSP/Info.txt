@@ -1,2 +1,6 @@
 https://github.com/aosp-mirror/platform_frameworks_base/tree/master/data/sounds
 
+https://github.com/aosp-mirror/platform_frameworks_base/blob/master/data/sounds/alarms/Cesium.ogg
+https://github.com/aosp-mirror/platform_frameworks_base/blob/master/data/sounds/alarms/wav/Cesium.wav
+https://github.com/aosp-mirror/platform_frameworks_base/blob/master/data/sounds/notifications/pixiedust.wav
+https://github.com/aosp-mirror/platform_frameworks_base/blob/master/data/sounds/notifications/pixiedust.ogg
