@@ -10,3 +10,7 @@ Found the appropriate files: notification.mp3, ringtone.ogg (Appears as "Office 
 /storage/emulated/0/Notifications/textnow-notification.mp3
 \
 /storage/emulated/0/Ringtones/textnow-ringtone.ogg
+
+For extracting the icon of apps for use in other apps I use:
+\
+https://play.google.com/store/apps/details?id=sk.styk.martin.apkanalyzer
