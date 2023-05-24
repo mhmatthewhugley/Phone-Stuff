@@ -16,3 +16,6 @@ Found the appropriate files: notification.mp3, ringtone.ogg (Appears as "Office 
 For extracting the icon of apps for use in other apps I use:
 \
 https://play.google.com/store/apps/details?id=sk.styk.martin.apkanalyzer
+
+Airplane and Waves from here are good wallpapers:
+https://github.com/OSHeden/Erosion
