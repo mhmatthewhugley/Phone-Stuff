@@ -17,7 +17,8 @@ For extracting the icon of apps for use in other apps I use:
 \
 https://play.google.com/store/apps/details?id=sk.styk.martin.apkanalyzer
 
-Airplane and Waves from here are good wallpapers:
+Airplane and Waves wallpapers and many other ones from:
+\
 https://github.com/OSHeden/Erosion
 
 Font:
