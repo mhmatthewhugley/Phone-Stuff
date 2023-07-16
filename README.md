@@ -24,3 +24,8 @@ https://github.com/OSHeden/Erosion
 Font:
 \
 Roboto-Regular
+
+Text on LockScreen:
+\
+Email for REWARD:
+example@example.com
