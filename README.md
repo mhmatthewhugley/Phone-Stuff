@@ -29,3 +29,7 @@ Text on LockScreen:
 \
 Email for REWARD:
 example@example.com
+
+Great for generating a super secure passphrase:
+\
+https://diceware.dmuth.org/?debug=4&skip_animation
