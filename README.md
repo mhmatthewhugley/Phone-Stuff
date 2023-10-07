@@ -33,3 +33,7 @@ email@example.com
 Great for generating a super secure passphrase:
 \
 https://diracdeltas.github.io/niceware/
+
+That's how I solved Pixel 5 fingerprint reader issues (not working most of the time of unlocking) : r/GooglePixel:
+\
+https://www.reddit.com/r/GooglePixel/comments/k21hee/thats_how_i_solved_pixel_5_fingerprint_reader/
