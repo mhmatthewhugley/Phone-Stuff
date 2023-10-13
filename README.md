@@ -28,17 +28,15 @@ Roboto-Regular
 Text on LockScreen:
 \
 Email for REWARD:
-
-Recommended password manager encryption settings:
-\
-https://www.reddit.com/r/Bitwarden/comments/16zowcu/argon2id_values/k3fqj77/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button
-
-
 email@example.com
 
 Great for generating a super secure passphrase:
 \
 https://diracdeltas.github.io/niceware/
+
+Recommended password manager encryption settings:
+\
+https://www.reddit.com/r/Bitwarden/comments/16zowcu/argon2id_values/k3fqj77/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button
 
 That's how I solved Pixel 5 fingerprint reader issues (not working most of the time of unlocking) : r/GooglePixel:
 \
