@@ -28,6 +28,7 @@ Roboto-Regular
 Text on LockScreen:
 \
 Email for REWARD:
+\
 email@example.com
 
 Great for generating a super secure passphrase:
