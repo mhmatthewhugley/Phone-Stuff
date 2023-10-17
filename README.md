@@ -21,6 +21,15 @@ Airplane and Waves wallpapers and many other ones from:
 \
 https://github.com/OSHeden/Erosion
 
+List of colors that complement the background color #3C465E (Arsenic) I use within [Cartogram - Live Map Wallpaper](https://play.google.com/store/apps/details?id=com.round_tower.app.android.wallpaper.cartogram):
+
+1. Pale Peach: #FFDAB9
+2. Sage Green: #9DC183
+3. Slate Blue: #6A5ACD
+4. Burnt Orange: #CC5500
+5. Light Gray: #D3D3D3
+6. Camel: #CD9E6B
+
 Font:
 \
 Roboto-Regular
