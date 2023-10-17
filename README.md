@@ -28,7 +28,7 @@ List of colors that complement the background color #3C465E (Arsenic) I use with
 3. Slate Blue: #6A5ACD
 4. Burnt Orange: #CC5500
 5. Light Gray: #D3D3D3
-6. Camel: #CD9E6B
+6. Camel: #CE9E6B
 
 Font:
 \
