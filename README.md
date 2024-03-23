@@ -40,6 +40,20 @@ Email for REWARD:
 \
 email@example.com
 
+Friendly, Modifiable, Christian, Custom Voicemail Greeting:
+\
+Hello, thank you for your time.
+\
+Sorry, I'm not available to take your call right now.
+\
+Please leave a message, and I'll get back to you as soon as possible.
+\
+If your message is urgent or requires a quick response, please send a text message, and I'll try to respond as soon as I can.
+\
+Thank you for understanding.
+\
+Have a blessed day.
+
 Great for generating a super secure passphrase:
 \
 https://diracdeltas.github.io/niceware/
