@@ -65,3 +65,10 @@ https://www.reddit.com/r/Bitwarden/comments/16zowcu/argon2id_values/k3fqj77/?utm
 That's how I solved Pixel 5 fingerprint reader issues (not working most of the time of unlocking) : r/GooglePixel:
 \
 https://www.reddit.com/r/GooglePixel/comments/k21hee/thats_how_i_solved_pixel_5_fingerprint_reader/
+
+Various Notification Sounds Selected:
+\
+Business Email: Merope
+Default notification sound: Pixie Dust
+Default alarm sound: Cesium
+Phone ringtone: Office Telephone Ring Loop
