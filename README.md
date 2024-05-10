@@ -69,6 +69,13 @@ https://www.reddit.com/r/GooglePixel/comments/k21hee/thats_how_i_solved_pixel_5_
 Various Notification Sounds Selected:
 \
 Business Email: Merope
+\
 Default notification sound: Pixie Dust
+\
 Default alarm sound: Cesium
+\
 Phone ringtone: Office Telephone Ring Loop
+\
+Specific Person 1: Beat Plucker
+\
+Starred Contacts: Rigel
