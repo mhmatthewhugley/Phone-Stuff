@@ -66,18 +66,18 @@ That's how I solved Pixel 5 fingerprint reader issues (not working most of the t
 \
 https://www.reddit.com/r/GooglePixel/comments/k21hee/thats_how_i_solved_pixel_5_fingerprint_reader/
 
-Various Notification Sounds Selected:
+Various Phone Sounds Selected:
 \
-Business Email: Merope
+(Notification) Business Email: Merope
 \
 Default notification sound: Pixie Dust
 \
-Default alarm sound: Cesium
+(Alarm) Default alarm sound: Cesium
 \
-Phone ringtone: Office Telephone Ring Loop
+Default phone ringtone: Office Telephone Ring Loop
 \
-Specific Person 1: Beat Plucker
+(Ringtone) Specific Person 1: Beat Plucker
 \
-Starred Contacts: Rigel
+(Ringtone) Starred Contacts: Rigel
 \
-Specific App 1: Arcturus
+(Notification) Specific App 1: Arcturus
